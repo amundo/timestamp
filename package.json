@@ -1,0 +1,13 @@
+{
+  "name": "timestamps",
+  "version": "1.0.0",
+  "description": "converting floating point or integer second times to timestamps for WebVTT",
+  "main": "timestamps.js",
+  "scripts": {
+    "test": "node -r esm test-timestamps.js"
+  },
+  "author": "Patrick Hall",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
